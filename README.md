@@ -1,2 +1,0 @@
-# ayanami_algorithm_study
-个人算法和数据结构学习库
